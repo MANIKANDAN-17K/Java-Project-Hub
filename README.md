@@ -13,7 +13,7 @@ The goal of this repository is to strengthen core programming skills, object-ori
 This repository includes projects based on:
 
 ### 🟢 Core Java Fundamentals
-- Variables & Data Types
+- Variables & Data Types   
 - Control Statements
 - Methods
 - Arrays
